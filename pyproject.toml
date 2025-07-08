@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "An MCP (Model Context Protocol) server that brings powerful AWS FinOps capabilities directly into your AI assistant. Analyze cloud costs, audit for waste, and get budget insights using natural language, all while keeping your credentials secure on your local machine."
 requires-python = ">=3.10"
 # clarify the control flow
+# keep defaults in sync with the manifest
